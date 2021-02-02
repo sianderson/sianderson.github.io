@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Stephanie I. Anderson</title>
+    <link>https://sianderson.github.io/publication/</link>
+      <atom:link href="https://sianderson.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sianderson.github.io/media/Phytoplankton_onblack.jpg</url>
+      <title>Publications</title>
+      <link>https://sianderson.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Dual thermal ecotypes detected within a nearly genetically-identical population of the unicellular marine cyanobacterium Synechococcus</title>
+      <link>https://sianderson.github.io/publication/kling-2020-05-27-119842/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://sianderson.github.io/publication/kling-2020-05-27-119842/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science Communication for Natural Resource Managers: Techniques and Examples in Marine Systems</title>
+      <link>https://sianderson.github.io/publication/anderson-2020-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://sianderson.github.io/publication/anderson-2020-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variability Approaching the Thermal Limits Can Drive Diatom Community Dynamics</title>
+      <link>https://sianderson.github.io/publication/anderson-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://sianderson.github.io/publication/anderson-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
