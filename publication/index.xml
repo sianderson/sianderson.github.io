@@ -5,12 +5,20 @@
     <link>https://sianderson.github.io/publication/</link>
       <atom:link href="https://sianderson.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Stephanie I. Anderson 2021</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Stephanie I. Anderson 2021</copyright><lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sianderson.github.io/media/Phytoplankton_onblack.jpg</url>
       <title>Publications</title>
       <link>https://sianderson.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Marine phytoplankton functional types exhibit diverse responses to thermal change</title>
+      <link>https://sianderson.github.io/publication/anderson-2021/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://sianderson.github.io/publication/anderson-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dual thermal ecotypes detected within a nearly genetically-identical population of the unicellular marine cyanobacterium Synechococcus</title>
