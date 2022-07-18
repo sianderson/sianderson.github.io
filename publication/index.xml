@@ -5,12 +5,20 @@
     <link>https://sianderson.github.io/publication/</link>
       <atom:link href="https://sianderson.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Stephanie I. Anderson 2022</copyright><lastBuildDate>Tue, 08 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Stephanie I. Anderson 2022</copyright><lastBuildDate>Mon, 18 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sianderson.github.io/media/Phytoplankton_onblack.jpg</url>
       <title>Publications</title>
       <link>https://sianderson.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Thermal trait variation may buffer Southern Ocean phytoplankton from anthropogenic warming</title>
+      <link>https://sianderson.github.io/publication/bishop-2022/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://sianderson.github.io/publication/bishop-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The interactive effects of temperature and nutrients on a spring phytoplankton community</title>
