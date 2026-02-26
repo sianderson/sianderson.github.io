@@ -5,12 +5,28 @@
     <link>https://sianderson.github.io/publication/</link>
       <atom:link href="https://sianderson.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Stephanie I. Anderson 2025</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Stephanie I. Anderson 2026</copyright><lastBuildDate>Thu, 26 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sianderson.github.io/media/Phytoplankton_onblack.jpg</url>
       <title>Publications</title>
       <link>https://sianderson.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Nutrient availability modulates impacts of short-term shifts in temperature and grazing on phytoplankton composition and size structure</title>
+      <link>https://sianderson.github.io/publication/anderson-2026/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://sianderson.github.io/publication/anderson-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting chlorophyll a thresholds for San Francisco Bay: insights from observations of phytoplankton molecular abundance</title>
+      <link>https://sianderson.github.io/publication/killam-2026/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://sianderson.github.io/publication/killam-2026/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Phytoplankton thermal trait parameterization alters community structure and biogeochemical processes in a modeled ocean</title>
