@@ -5,12 +5,60 @@
     <link>https://sianderson.github.io/project/</link>
       <atom:link href="https://sianderson.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Stephanie I. Anderson 2026</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Stephanie I. Anderson 2026</copyright><lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sianderson.github.io/media/Phytoplankton2.jpg</url>
       <title>Projects</title>
       <link>https://sianderson.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>HABs</title>
+      <link>https://sianderson.github.io/project/habs/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://sianderson.github.io/project/habs/</guid>
+      <description>
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-hab-species&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://sianderson.github.io/media/HABs.png&#34; data-caption=&#34;HAB species&#34;&gt;
+
+
+  &lt;img src=&#34;https://sianderson.github.io/media/HABs.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    HAB species
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Marine harmful algal blooms (HABs) pose a significant economic burden and public health concern for coastal regions. We explore the drivers of coastal HABs in order to improve our ability to predict and monitor future HAB events.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Thermal Traits</title>
